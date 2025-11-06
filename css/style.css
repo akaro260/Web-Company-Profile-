@@ -4,13 +4,6 @@
 .navbar i:hover{
     cursor: pointer;
 }
-.navbar .fa-square-linkedin:hover{
-    color: rgb(14, 134, 214);
-}
-.navbar .fa-facebook:hover{
-    color: #0051ff;
-
-}
 
 .hero{
     background-image: linear-gradient(rgba(0, 0, 0, 0.801)), url(/assets/img/hero.jpg);
