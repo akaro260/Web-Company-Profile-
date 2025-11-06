@@ -50,4 +50,11 @@
 html {
     scroll-padding-top: 130px;
 }
+
+}
+.fa-circle-check{
+    color: green;
+}
+.PTY{
+    margin-top: 80px;
 }
