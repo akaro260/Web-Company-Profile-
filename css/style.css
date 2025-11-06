@@ -30,5 +30,24 @@
 
 #navbar.scrolled {
     background-color: #0D6EFD;
-    
+
+}
+@media (max-width: 991px) {
+.navbar-collapse {
+    text-align: center;
+}
+
+.navbar-nav {
+    flex-direction: row;
+    justify-content: center;       
+    width: 100%;
+}
+
+.navbar-nav .nav-item {
+    margin: 0 10px;
+}
+
+html {
+    scroll-padding-top: 130px;
+}
 }
